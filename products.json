@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1234",
+        "name": "Товар 1",
+        "description": "Описание товара",
+        "price": 100.0,
+        "photo_id": "file_id",
+        "quantity": 10
+    },
+    {
+        "id": "5678",
+        "name": "Товар 2",
+        "description": "Описание товара",
+        "price": 150.0,
+        "photo_id": "file_id_2",
+        "quantity": 5
+    }
+]
